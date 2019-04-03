@@ -12,9 +12,6 @@
     "adonisjs",
     "adonis-app"
   ],
-  "author": "",
-  "license": "UNLICENSED",
-  "private": true,
   "dependencies": {
     "@adonisjs/ace": "^5.0.2",
     "@adonisjs/auth": "^3.0.5",
